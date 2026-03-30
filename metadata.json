@@ -1,0 +1,5 @@
+{
+  "name": "Slice & Sizzle Pizza",
+  "description": "Premium artisanal pizza delivered hot to your door. Order now for the best slice in town.",
+  "requestFramePermissions": ["geolocation"]
+}
